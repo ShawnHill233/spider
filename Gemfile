@@ -22,5 +22,6 @@ end
 
 group :test do
   gem 'rspec-rails', '~>3.2'
+  gem 'simplecov', :require => false
 end
 
